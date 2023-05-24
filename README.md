@@ -1,16 +1,27 @@
-### Hi there 👋
+Hello. My Name is Samuel Hossain
 
-<!--
-**samtech36/samtech36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent Graduate at the New York Institute of Technology.
 
-Here are some ideas to get you started:
+B.S. | Electrical and Computer Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My github contains my past projects/experience related to embedded systems 
+
+
+- 🔭 I’m currently pursuring a career on embedded software/firmware development
+- 📫 How to reach me: samuel.hossain@outlook.com
+- 😄 Pronouns: He/Him
+
+
+How to reach me: samuel.hossain@outlook.com
+
+**Connect with me :**
+
+
+
+<a href="https://www.linkedin.com/in/samuelhossain/" target="_blank">
+<img align="left" alt="Samuel | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
+</a>
+
+<br>
+<br>
+
