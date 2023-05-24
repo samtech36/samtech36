@@ -11,7 +11,6 @@ Passionate on Embedded Systems
 - 😄 Pronouns: He/Him
 
 
-How to reach me: samuel.hossain@outlook.com
 
 **Connect with me :**
 
