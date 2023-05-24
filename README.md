@@ -1,11 +1,10 @@
-Hello. My Name is Samuel Hossain
+Hello. I'm Samuel Hossain
 
-Recent Graduate at the New York Institute of Technology.
+Recent Graduate at the New York Institute of Technology
 
 B.S. | Electrical and Computer Engineering
 
-My github contains my past projects/experience related to embedded systems 
-
+Passionate on Embedded Systems
 
 - 🔭 I’m currently pursuring a career on embedded software/firmware development
 - 📫 How to reach me: samuel.hossain@outlook.com
