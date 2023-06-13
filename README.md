@@ -4,9 +4,9 @@ Recent Graduate at the New York Institute of Technology
 
 B.S. | Electrical and Computer Engineering
 
-Passionate on Embedded Systems
+Passionate on Software Development and Embedded Systems
 
-- 🔭 I’m currently pursuring a career on embedded software/firmware development
+- 🔭 I’m currently pursuring a career on Software Development
 - 📫 How to reach me: samuel.hossain@outlook.com
 - 😄 Pronouns: He/Him
 
