@@ -9,6 +9,7 @@ B.S. | Electrical and Computer Engineering
 - 📫 How to reach me: samuel.hossain@outlook.com
 - 😄 Pronouns: He/Him
 
+If you want to see my projects, Its in the repository section.
 
 
 **Connect with me :**
