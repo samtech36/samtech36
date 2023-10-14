@@ -1,6 +1,6 @@
 Hello. I'm Samuel Hossain
 
-Recent Graduate at the New York Institute of Technology
+Graduated at the New York Institute of Technology
 
 B.S. | Electrical and Computer Engineering
 
